@@ -19,7 +19,7 @@ Arguments for default case:
 * number of servers = 2 🥥2 doctors
 
 ```
-python simulation.py --simT 2000 --arrT 5 --serR 3 --k 2
+python mmc.py --simT 2000 --arrT 5 --serR 3 --k 2
 
 # sample output
 0.58762 [average wait]
