@@ -19,12 +19,11 @@ Arguments for default case:
 * number of servers = 2 🥥2 doctors
 
 ```
-python mmc.py --simT 2000 --arrT 5 --serR 3 --k 2
+~/MMC_queue/python mmc.py --simT 10000
 
-# sample output
-0.58762 [average wait]
+0.78214 [average wait]
 0.75758 [expect wait]
-4.605 [average customer in system]
+5.581 [average customer in system]
 5.455 [expect customer in system]
 ```
 
